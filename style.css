@@ -1,0 +1,27 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: black;
+}
+
+#snake {
+    border: red 2px solid
+}
+
+.texto {
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+
+button {
+    width: 100%;
+    border: none;
+    height: 30px;
+    margin: 10px;
+}
